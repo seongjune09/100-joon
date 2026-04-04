@@ -8,4 +8,4 @@
 그래도 하루에 한 문제를 풀기 위해 노력했으며 C언어의 기초를 잡았습니다.
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=seongjun09)](https://solved.ac/seongjun09)
-<img width="862" height="185" alt="image" src="https://github.com/user-attachments/assets/c74cd5a3-633c-47a9-9ab8-be3488467868" />
+<img width="797" height="252" alt="image" src="https://github.com/user-attachments/assets/61b6559c-e77b-406a-96d1-8226db49a01a" />
